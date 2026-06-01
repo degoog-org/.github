@@ -13,6 +13,10 @@ Degoog is a search aggregator that queries multiple engines and shows results in
       <td>Main degoog repo to self host your own search aggregator</td>
     </tr>
     <tr>
+      <td><a href="degoog-org.github.io/docs"><strong>degoog docs</strong></a></td>
+      <td>Learn the ins and out of how degoog works</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/degoog-org/official-extensions"><strong>official extensions</strong></a></td>
       <td>Official extensions created by the degoog devs</td>
     </tr>
