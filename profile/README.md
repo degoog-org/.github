@@ -29,6 +29,10 @@ Degoog is a search aggregator that queries multiple engines and shows results in
       <td>Use the handy cli commands for generating boilerplates to start creating your own extensions.</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/degoog-org/mcp"><strong>degoog mcp
+      <td>Connect your favourite AI harnesses to the official degoog MCP to empower them to search the web and scrape results for deep search.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/degoog-org/4play"><strong>4play extension</strong></a></td>
       <td>Get around some nasty engines using the 4play browser extension paired with the <a href="https://degoog-org.github.io/community-extensions/#repo=https%3A%2F%2Fgithub.com%2Fdegoog-org%2Fofficial-extensions&ext=transports%2Fdegoog-fplay">4play transport</a>.</td>
     </tr>
