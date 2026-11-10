@@ -37,7 +37,7 @@ Degoog is a search aggregator that queries multiple engines and shows results in
       <td>Connect your favourite AI harnesses to the official degoog MCP to empower them to search the web and scrape results for deep search.</td>
     </tr>
     <tr>
-      <td><a href="https://degoog-org.github.io/uptime"><strong>dedoodles</strong></a></td>
+      <td><a href="https://github.com/degoog-org/dedoodles"><strong>dedoodles</strong></a></td>
       <td>Community made Degoog logos showing up on specific days</td>
     </tr>
   </tbody>
